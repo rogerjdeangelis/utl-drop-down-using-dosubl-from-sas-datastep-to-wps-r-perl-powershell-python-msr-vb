@@ -30,7 +30,7 @@ https://github.com/rogerjdeangelis/utl-drop-down-using-dosubl-from-sas-datastep-
     utl_sumnit_py64_311  PYTHON
     utl_sumnit_py64_27   PYTHON
     utl_sumnit_r64       R
-    utl_sumnit_r64       MSR          Microsoft R
+    utl_sumnit_msr64     MSR          Microsoft R
     utl_sumnit_vb64      VB
 
  SAS NEEDS TO SPEEDUP DOSUBL AND DEVELOPERS NEED TO SPEEDUP SQL INTERFACES WITH NATIVE LANGUAGE.
